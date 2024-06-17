@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="bottom_nav_color">#FFFFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_black">#101010</color>
+    <color name="profile_color">#DDDDDD</color>
+    <color name="icon_color">#EA7300</color>
+    <color name="default_icon_color">#505050</color>
+    <color name="search_hint_color">#505050</color>
+    <color name="dialpad_text_color">#636A74</color>
+    <color name="no_contact_yet_color">#9E9E9E</color>
+    <color name="splash_color">#252525</color>
+    <color name="search_box_color">#FFFFFFFF</color>
+    <color name="main_layout_color">#F3F3F3</color>
+    <color name="red">#FF372E</color>
+    <color name="green">#02B94B</color>
+    <color name="call_icon_recent">#01B94B</color>
+    <color name="textColor">#FE4646</color>
+
+    <color name="light_gray">#F5F7FA</color>
+    <color name="secondary_color">#312051</color>
+    <color name="primary_color">#48426D</color>
+    <color name="primary_text_color">#F0C3BE</color>
+    <color name="primary_error">#F1AA9B</color>
+    <color name="color1">#FF5C5C5C</color>
+    <color name="color2">#FF171717</color>
+    <color name="popup_color">#FFFFFFFF</color>
+    <color name="frame_color">#DDDDDD</color>
+    <color name="white_black">#FFFFFFFF</color>
+    <color name="close_text_color">#636A74</color>
+</resources>
